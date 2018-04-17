@@ -1,0 +1,49 @@
+1523495862283	geckodriver	INFO	geckodriver 0.20.0
+1523495862293	geckodriver	INFO	Listening on 127.0.0.1:58385
+1523495865265	mozrunner::runner	INFO	Running command: "D:\\firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\wangz\\AppData\\Local\\Temp\\rust_mozprofile.U53XfQP9TP8j"
+Unable to read VR Path Registry from C:\Users\wangz\AppData\Local\openvr\openvrpaths.vrpath
+1523495867010	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\wangz\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\wangz\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\wangz\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\wangz\AppData\Local\openvr\openvrpaths.vrpath
+1523495869454	Marionette	INFO	Listening on port 58393
+1523495870506	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.1.19/ciircrm/Public/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.1.19/ciircrm/Public/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1523495887835	geckodriver	INFO	geckodriver 0.20.0
+1523495887848	geckodriver	INFO	Listening on 127.0.0.1:58444
+1523495890851	mozrunner::runner	INFO	Running command: "D:\\firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\wangz\\AppData\\Local\\Temp\\rust_mozprofile.KcxigrSciqMR"
+Unable to read VR Path Registry from C:\Users\wangz\AppData\Local\openvr\openvrpaths.vrpath
+1523495891382	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\wangz\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\wangz\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\wangz\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\wangz\AppData\Local\openvr\openvrpaths.vrpath
+1523495893110	Marionette	INFO	Listening on port 58452
+1523495893982	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.1.19/ciircrm/Public/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.1.19/ciircrm/Public/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Parent 7456, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common1523495928534	mozrunner::runner	INFO	Running command: "D:\\firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\wangz\\AppData\\Local\\Temp\\rust_mozprofile.UpQmk2C3rUic"
+Unable to read VR Path Registry from C:\Users\wangz\AppData\Local\openvr\openvrpaths.vrpath
+1523495929072	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\wangz\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\wangz\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\wangz\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\wangz\AppData\Local\openvr\openvrpaths.vrpath
+1523495930846	Marionette	INFO	Listening on port 58524
+1523495931682	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.1.19/ciircrm/Public/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.1.19/ciircrm/Public/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1523495933138	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 125"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:125 < onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:141 < _middleware/</<()@resource://activity-stream/lib/Store.jsm:51 < Store/this[method]()@resource://activity-stream/lib/Store.jsm:30 < uninit()@resource://activity-stream/lib/Store.jsm:153 < uninit()@resource://activity-stream/lib/ActivityStream.jsm:274 < uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///D:/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:80 < shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///D:/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:196 < callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4419 < observe()@resource://gre/modules/addons/XPIProvider.jsm:2279 < GeckoDriver.prototype.quit()@driver.js:3270 < despatch()@server.js:557 < execute()@server.js:531 < onPacket/<()@server.js:506 < onPacket()@server.js:505 < _onJSONObjectReady/<()@transport.js:500
+[Child 9648, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9648, Chrom[Child 11512, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11512, Chrome_C*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1523495934022	geckodriver::marionette	ERROR	Failed to stop browser process
