@@ -1,0 +1,1040 @@
+1523495757019	geckodriver	INFO	geckodriver 0.20.0
+1523495757034	geckodriver	INFO	Listening on 127.0.0.1:52140
+1523495760081	mozrunner::runner	INFO	Running command: "E:\\FirefoxPortable\\firefox.exe" "-marionette" "-profile" "C:\\Users\\花满听~1\\AppData\\Local\\Temp\\rust_mozprofile.594r9dtJ3QQn"
+Unable to read VR Path Registry from C:\Users\花满听楼花满天\AppData\Local\openvr\openvrpaths.vrpath
+1523495762748	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\花满听楼花满天\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\花满听楼花满天\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\花满听楼花满天\AppData\Local\openvr\openvrpaths.vrpath
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+Unable to read VR Path Registry from C:\Users\花满听楼花满天\AppData\Local\openvr\openvrpaths.vrpath
+1523495769074	Marionette	INFO	Listening on port 52148
+1523495770046	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.1.251/ciircrm/Public/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.1.251/ciircrm/Public/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.1.251/ciircrm/Public/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Parent 6388, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 6388, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1523495790000	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+[Child 2848, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2848, Chrome_ChildT1523495790032	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1523495790032	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Parent 6388, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9324, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9324, Ch*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1523495792927	geckodriver::marionette	ERROR	Failed to stop browser process
+1523495793349	geckodriver	INFO	geckodriver 0.20.0
+1523495793380	geckodriver	INFO	Listening on 127.0.0.1:52227
+1523495796412	mozrunner::runner	INFO	Running command: "E:\\FirefoxPortable\\firefox.exe" "-marionette" "-profile" "C:\\Users\\花满听~1\\AppData\\Local\\Temp\\rust_mozprofile.7GaegyTjk2LA"
+Unable to read VR Path Registry from C:\Users\花满听楼花满天\AppData\Local\openvr\openvrpaths.vrpath
+1523495799270	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\花满听楼花满天\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\花满听楼花满天\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\花满听楼花满天\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\花满听楼花满天\AppData\Local\openvr\openvrpaths.vrpath
+1523495805962	Marionette	INFO	Listening on port 52236
+1523495806578	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.1.251/ciircrm/Public/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.1.251/ciircrm/Public/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Parent 5928, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5488, Chrome*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1523495818693	geckodriver::marionette	ERROR	Failed to stop browser process
+1523523094928	geckodriver	INFO	geckodriver 0.20.0
+1523523094959	geckodriver	INFO	Listening on 127.0.0.1:63715
+1523523097975	mozrunner::runner	INFO	Running command: "E:\\FirefoxPortable\\firefox.exe" "-marionette" "-profile" "C:\\Users\\花满听~1\\AppData\\Local\\Temp\\rust_mozprofile.7H3N5ZtCdXrq"
+Unable to read VR Path Registry from C:\Users\花满听楼花满天\AppData\Local\openvr\openvrpaths.vrpath
+1523523100760	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\花满听楼花满天\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\花满听楼花满天\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\花满听楼花满天\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\花满听楼花满天\AppData\Local\openvr\openvrpaths.vrpath
+1523523107016	Marionette	INFO	Listening on port 63724
+1523523108162	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.1.251/ciircrm/Public/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.1.251/ciircrm/Public/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.1.251/ciircrm/Public/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 5424, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5424, Chrome_C[Parent 10284, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1523523127826	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1523523127846	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Parent 10284, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 9520, Chrome_ChildThread] WARNING: pipe error: 109: file z:
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1523523130712	geckodriver::marionette	ERROR	Failed to stop browser process
+1523523131087	geckodriver	INFO	geckodriver 0.20.0
+1523523131119	geckodriver	INFO	Listening on 127.0.0.1:63792
+1523523134149	mozrunner::runner	INFO	Running command: "E:\\FirefoxPortable\\firefox.exe" "-marionette" "-profile" "C:\\Users\\花满听~1\\AppData\\Local\\Temp\\rust_mozprofile.UUqLflcdtTPV"
+Unable to read VR Path Registry from C:\Users\花满听楼花满天\AppData\Local\openvr\openvrpaths.vrpath
+1523523136780	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\花满听楼花满天\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\花满听楼花满天\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\花满听楼花满天\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\花满听楼花满天\AppData\Local\openvr\openvrpaths.vrpath
+1523523143666	Marionette	INFO	Listening on port 63804
+1523523144268	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.1.251/ciircrm/Public/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.1.251/ciircrm/Public/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.1.251/ciircrm/Public/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.1.251/ciircrm/Public/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Parent 10496, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1523523166476	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Child 5652, C*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1523523169824	geckodriver::marionette	ERROR	Failed to stop browser process
+1523523170340	geckodriver	INFO	geckodriver 0.20.0
+1523523170371	geckodriver	INFO	Listening on 127.0.0.1:63876
+1523523173386	mozrunner::runner	INFO	Running command: "E:\\FirefoxPortable\\firefox.exe" "-marionette" "-profile" "C:\\Users\\花满听~1\\AppData\\Local\\Temp\\rust_mozprofile.DPjBPEBnOYI7"
+Unable to read VR Path Registry from C:\Users\花满听楼花满天\AppData\Local\openvr\openvrpaths.vrpath
+1523523176070	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\花满听楼花满天\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\花满听楼花满天\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\花满听楼花满天\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\花满听楼花满天\AppData\Local\openvr\openvrpaths.vrpath
+1523523182908	Marionette	INFO	Listening on port 63886
+1523523183080	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.1.251/ciircrm/Public/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.1.251/ciircrm/Public/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.1.251/ciircrm/Public/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.1.251/ciircrm/Public/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Parent 1176, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1523523210888	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Child 3440, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3440, Chrome_[Child 10544, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Chi*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1523523213704	geckodriver::marionette	ERROR	Failed to stop browser process
+1523523214111	geckodriver	INFO	geckodriver 0.20.0
+1523523214142	geckodriver	INFO	Listening on 127.0.0.1:63968
+1523523217204	mozrunner::runner	INFO	Running command: "E:\\FirefoxPortable\\firefox.exe" "-marionette" "-profile" "C:\\Users\\花满听~1\\AppData\\Local\\Temp\\rust_mozprofile.0uCF76j6MfNc"
+Unable to read VR Path Registry from C:\Users\花满听楼花满天\AppData\Local\openvr\openvrpaths.vrpath
+1523523220014	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\花满听楼花满天\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\花满听楼花满天\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\花满听楼花满天\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\花满听楼花满天\AppData\Local\openvr\openvrpaths.vrpath
+1523523226192	Marionette	INFO	Listening on port 63977
+1523523227088	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.1.251/ciircrm/Public/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.1.251/ciircrm/Public/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.1.251/ciircrm/Public/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.1.251/ciircrm/Public/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Parent 10392, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4548, Chrome_ChildThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+[Child 4548, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4548, Ch[Child *** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1523523266349	geckodriver::marionette	ERROR	Failed to stop browser process
+1523523266677	geckodriver	INFO	geckodriver 0.20.0
+1523523266708	geckodriver	INFO	Listening on 127.0.0.1:64054
+1523523269724	mozrunner::runner	INFO	Running command: "E:\\FirefoxPortable\\firefox.exe" "-marionette" "-profile" "C:\\Users\\花满听~1\\AppData\\Local\\Temp\\rust_mozprofile.U5YGep2ovUhB"
+Unable to read VR Path Registry from C:\Users\花满听楼花满天\AppData\Local\openvr\openvrpaths.vrpath
+1523523272276	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\花满听楼花满天\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\花满听楼花满天\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\花满听楼花满天\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\花满听楼花满天\AppData\Local\openvr\openvrpaths.vrpath
+1523523278840	Marionette	INFO	Listening on port 64063
+1523523279744	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.1.251/ciircrm/Public/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.1.251/ciircrm/Public/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.1.251/ciircrm/Public/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://192.168.1.251/ciircrm/index.php?m=task&a=add, line 203: ReferenceError: KindEditor is not defined
+JavaScript warning: http://192.168.1.251/ciircrm/Public/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://192.168.1.251/ciircrm/index.php?m=task&a=add, line 203: ReferenceError: KindEditor is not defined
+[Parent 956, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1523523300904	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Child 8444, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8444, Chrome*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1523523303944	geckodriver::marionette	ERROR	Failed to stop browser process
+1523523304272	geckodriver	INFO	geckodriver 0.20.0
+1523523304288	geckodriver	INFO	Listening on 127.0.0.1:64134
+1523523307319	mozrunner::runner	INFO	Running command: "E:\\FirefoxPortable\\firefox.exe" "-marionette" "-profile" "C:\\Users\\花满听~1\\AppData\\Local\\Temp\\rust_mozprofile.on07HPMu3k4G"
+Unable to read VR Path Registry from C:\Users\花满听楼花满天\AppData\Local\openvr\openvrpaths.vrpath
+1523523310080	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\花满听楼花满天\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\花满听楼花满天\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\花满听楼花满天\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\花满听楼花满天\AppData\Local\openvr\openvrpaths.vrpath
+1523523316550	Marionette	INFO	Listening on port 64143
+1523523317662	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.1.251/ciircrm/Public/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.1.251/ciircrm/Public/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Parent 5548, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1523523329382	geckodriver::marionette	ERROR	Failed to stop browser process
+1523523329678	geckodriver	INFO	geckodriver 0.20.0
+1523523329710	geckodriver	INFO	Listening on 127.0.0.1:64192
+1523523332725	mozrunner::runner	INFO	Running command: "E:\\FirefoxPortable\\firefox.exe" "-marionette" "-profile" "C:\\Users\\花满听~1\\AppData\\Local\\Temp\\rust_mozprofile.JSIDAlLKkf0R"
+Unable to read VR Path Registry from C:\Users\花满听楼花满天\AppData\Local\openvr\openvrpaths.vrpath
+1523523335476	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\花满听楼花满天\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\花满听楼花满天\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\花满听楼花满天\AppData\Local\openvr\openvrpaths.vrpath
+1523523341818	Marionette	INFO	Listening on port 64200
+Unable to read VR Path Registry from C:\Users\花满听楼花满天\AppData\Local\openvr\openvrpaths.vrpath
+1523523342656	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.1.251/ciircrm/Public/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.1.251/ciircrm/Public/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.1.251/ciircrm/Public/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 1108, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1108, Chro[Parent 10888, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1523523363392	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1523523363420	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Child 1201*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1523523366744	geckodriver::marionette	ERROR	Failed to stop browser process
+1523523367072	geckodriver	INFO	geckodriver 0.20.0
+1523523367103	geckodriver	INFO	Listening on 127.0.0.1:64264
+1523523370088	mozrunner::runner	INFO	Running command: "E:\\FirefoxPortable\\firefox.exe" "-marionette" "-profile" "C:\\Users\\花满听~1\\AppData\\Local\\Temp\\rust_mozprofile.6mBHeQtfBYK7"
+Unable to read VR Path Registry from C:\Users\花满听楼花满天\AppData\Local\openvr\openvrpaths.vrpath
+1523523372668	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\花满听楼花满天\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\花满听楼花满天\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\花满听楼花满天\AppData\Local\openvr\openvrpaths.vrpath
+1523523379028	Marionette	INFO	Listening on port 64272
+Unable to read VR Path Registry from C:\Users\花满听楼花满天\AppData\Local\openvr\openvrpaths.vrpath
+1523523379790	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.1.251/ciircrm/Public/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.1.251/ciircrm/Public/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.1.251/ciircrm/Public/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1523523401174	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Child 6260, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6260, C[Child 9608, *** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1523523404431	geckodriver::marionette	ERROR	Failed to stop browser process
+1523523404900	geckodriver	INFO	geckodriver 0.20.0
+1523523404931	geckodriver	INFO	Listening on 127.0.0.1:64334
+1523523407931	mozrunner::runner	INFO	Running command: "E:\\FirefoxPortable\\firefox.exe" "-marionette" "-profile" "C:\\Users\\花满听~1\\AppData\\Local\\Temp\\rust_mozprofile.01y0wqRpQsfp"
+Unable to read VR Path Registry from C:\Users\花满听楼花满天\AppData\Local\openvr\openvrpaths.vrpath
+1523523410612	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\花满听楼花满天\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\花满听楼花满天\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\花满听楼花满天\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\花满听楼花满天\AppData\Local\openvr\openvrpaths.vrpath
+1523523417094	Marionette	INFO	Listening on port 64344
+1523523417924	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.1.251/ciircrm/Public/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.1.251/ciircrm/Public/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.1.251/ciircrm/Public/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Ch*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1523523457684	geckodriver::marionette	ERROR	Failed to stop browser process
+1523523458075	geckodriver	INFO	geckodriver 0.20.0
+1523523458106	geckodriver	INFO	Listening on 127.0.0.1:64417
+1523523461106	mozrunner::runner	INFO	Running command: "E:\\FirefoxPortable\\firefox.exe" "-marionette" "-profile" "C:\\Users\\花满听~1\\AppData\\Local\\Temp\\rust_mozprofile.YRQaopxkGEhZ"
+Unable to read VR Path Registry from C:\Users\花满听楼花满天\AppData\Local\openvr\openvrpaths.vrpath
+1523523463774	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\花满听楼花满天\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\花满听楼花满天\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\花满听楼花满天\AppData\Local\openvr\openvrpaths.vrpath
+1523523469810	Marionette	INFO	Listening on port 64425
+Unable to read VR Path Registry from C:\Users\花满听楼花满天\AppData\Local\openvr\openvrpaths.vrpath
+1523523470868	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.1.251/ciircrm/Public/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.1.251/ciircrm/Public/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.1.251/ciircrm/Public/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 10808, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10808[Parent 11976, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 11976, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10320, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10320,*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1523523513374	geckodriver::marionette	ERROR	Failed to stop browser process
+1523523513842	geckodriver	INFO	geckodriver 0.20.0
+1523523513874	geckodriver	INFO	Listening on 127.0.0.1:64493
+1523523516876	mozrunner::runner	INFO	Running command: "E:\\FirefoxPortable\\firefox.exe" "-marionette" "-profile" "C:\\Users\\花满听~1\\AppData\\Local\\Temp\\rust_mozprofile.IHrMNJ2919WP"
+Unable to read VR Path Registry from C:\Users\花满听楼花满天\AppData\Local\openvr\openvrpaths.vrpath
+1523523519786	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\花满听楼花满天\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\花满听楼花满天\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\花满听楼花满天\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\花满听楼花满天\AppData\Local\openvr\openvrpaths.vrpath
+1523523525998	Marionette	INFO	Listening on port 64502
+1523523527260	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.1.251/ciircrm/Public/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.1.251/ciircrm/Public/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.1.251/ciircrm/Public/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Parent 11736, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4016, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4016, Chro[Ch*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1523523550266	geckodriver::marionette	ERROR	Failed to stop browser process
+1523581702050	geckodriver	INFO	geckodriver 0.20.0
+1523581702064	geckodriver	INFO	Listening on 127.0.0.1:50597
+1523581705117	mozrunner::runner	INFO	Running command: "E:\\FirefoxPortable\\firefox.exe" "-marionette" "-profile" "C:\\Users\\花满听~1\\AppData\\Local\\Temp\\rust_mozprofile.GeBqnAq9uQWc"
+Unable to read VR Path Registry from C:\Users\花满听楼花满天\AppData\Local\openvr\openvrpaths.vrpath
+1523581706462	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\花满听楼花满天\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\花满听楼花满天\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\花满听楼花满天\AppData\Local\openvr\openvrpaths.vrpath
+[Child 3564, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3564, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/sUnable to read VR Path Registry from C:\Users\花满听楼花满天\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\花满听楼花满天\AppData\Local\openvr\openvrpaths.vrpath
+1523581714774	Marionette	INFO	Listening on port 50608
+1523581715062	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.1.251/ciircrm/Public/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.1.251/ciircrm/Public/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.1.251/ciircrm/Public/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 5772, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5772, Chrome_ChildThread] WARNING: pipe error: 1091523581735918	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1523581735930	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Child 2784, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2784, Chrome_ChildThread] W[Parent 11480, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1720, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1720, Chrom*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1523581738425	geckodriver::marionette	ERROR	Failed to stop browser process
+1523581738883	geckodriver	INFO	geckodriver 0.20.0
+1523581738895	geckodriver	INFO	Listening on 127.0.0.1:50696
+1523581741947	mozrunner::runner	INFO	Running command: "E:\\FirefoxPortable\\firefox.exe" "-marionette" "-profile" "C:\\Users\\花满听~1\\AppData\\Local\\Temp\\rust_mozprofile.uTHsKcDypxFx"
+Unable to read VR Path Registry from C:\Users\花满听楼花满天\AppData\Local\openvr\openvrpaths.vrpath
+1523581743158	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\花满听楼花满天\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\花满听楼花满天\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\花满听楼花满天\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\花满听楼花满天\AppData\Local\openvr\openvrpaths.vrpath
+1523581748524	Marionette	INFO	Listening on port 50705
+1523581749636	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.1.251/ciircrm/Public/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.1.251/ciircrm/Public/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1523581757158	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 125"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:125 < onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:141 < _middleware/</<()@resource://activity-stream/lib/Store.jsm:51 < Store/this[method]()@resource://activity-stream/lib/Store.jsm:30 < uninit()@resource://activity-stream/lib/Store.jsm:153 < uninit()@resource://activity-stream/lib/ActivityStream.jsm:274 < uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///E:/FirefoxPortable/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:80 < shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///E:/FirefoxPortable/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:196 < callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4419 < observe()@resource://gre/modules/addons/XPIProvider.jsm:2279 < GeckoDriver.prototype.quit()@driver.js:3270 < despatch()@server.js:557 < execute()@server.js:531 < onPacket/<()@server.js:506 < onPacket()@server.js:505 < _onJSONObjectReady/<()@transport.js:500
+[Parent 3492, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 3492, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 3492, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1523581760747	geckodriver::marionette	ERROR	Failed to stop browser process
+1523581760884	geckodriver	INFO	geckodriver 0.20.0
+1523581760899	geckodriver	INFO	Listening on 127.0.0.1:50767
+1523581763917	mozrunner::runner	INFO	Running command: "E:\\FirefoxPortable\\firefox.exe" "-marionette" "-profile" "C:\\Users\\花满听~1\\AppData\\Local\\Temp\\rust_mozprofile.tmlyCKP4PCKp"
+Unable to read VR Path Registry from C:\Users\花满听楼花满天\AppData\Local\openvr\openvrpaths.vrpath
+1523581765302	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\花满听楼花满天\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\花满听楼花满天\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\花满听楼花满天\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\花满听楼花满天\AppData\Local\openvr\openvrpaths.vrpath
+1523581771378	Marionette	INFO	Listening on port 50777
+1523581771754	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.1.251/ciircrm/Public/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.1.251/ciircrm/Public/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.1.251/ciircrm/Public/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.1.251/ciircrm/Public/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Parent 12028, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 12028, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1523581804674	geckodriver::marionette	ERROR	Failed to stop browser process
+1523581805057	geckodriver	INFO	geckodriver 0.20.0
+1523581805086	geckodriver	INFO	Listening on 127.0.0.1:50874
+1523581808095	mozrunner::runner	INFO	Running command: "E:\\FirefoxPortable\\firefox.exe" "-marionette" "-profile" "C:\\Users\\花满听~1\\AppData\\Local\\Temp\\rust_mozprofile.X51tfrbgttFd"
+Unable to read VR Path Registry from C:\Users\花满听楼花满天\AppData\Local\openvr\openvrpaths.vrpath
+1523581809944	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\花满听楼花满天\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\花满听楼花满天\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\花满听楼花满天\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\花满听楼花满天\AppData\Local\openvr\openvrpaths.vrpath
+1523581816514	Marionette	INFO	Listening on port 50882
+1523581818048	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.1.251/ciircrm/Public/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.1.251/ciircrm/Public/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.1.251/ciircrm/Public/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.1.251/ciircrm/Public/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Parent 1392, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 1392, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Chil*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1523581858628	geckodriver::marionette	ERROR	Failed to stop browser process
+1523581859027	geckodriver	INFO	geckodriver 0.20.0
+1523581859056	geckodriver	INFO	Listening on 127.0.0.1:50986
+1523581862065	mozrunner::runner	INFO	Running command: "E:\\FirefoxPortable\\firefox.exe" "-marionette" "-profile" "C:\\Users\\花满听~1\\AppData\\Local\\Temp\\rust_mozprofile.dKERkx4iywXs"
+Unable to read VR Path Registry from C:\Users\花满听楼花满天\AppData\Local\openvr\openvrpaths.vrpath
+1523581863956	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\花满听楼花满天\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\花满听楼花满天\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\花满听楼花满天\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 10524, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9064, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9064, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\花满听楼花满天\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\花满听楼花满天\AppData\Local\openvr\openvrpaths.vrpath
+1523581872126	Marionette	INFO	Listening on port 50995
+1523581872530	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.1.251/ciircrm/Public/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.1.251/ciircrm/Public/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.1.251/ciircrm/Public/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://192.168.1.251/ciircrm/index.php?m=task&a=add, line 203: ReferenceError: KindEditor is not defined
+JavaScript warning: http://192.168.1.251/ciircrm/Public/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://192.168.1.251/ciircrm/index.php?m=task&a=add, line 203: ReferenceError: KindEditor is not defined
+[Parent 10524, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1523581896276	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Parent 10524, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Chil*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1523581899486	geckodriver::marionette	ERROR	Failed to stop browser process
+1523581899830	geckodriver	INFO	geckodriver 0.20.0
+1523581899858	geckodriver	INFO	Listening on 127.0.0.1:51082
+1523581902875	mozrunner::runner	INFO	Running command: "E:\\FirefoxPortable\\firefox.exe" "-marionette" "-profile" "C:\\Users\\花满听~1\\AppData\\Local\\Temp\\rust_mozprofile.bQy5OtZzC2cf"
+Unable to read VR Path Registry from C:\Users\花满听楼花满天\AppData\Local\openvr\openvrpaths.vrpath
+1523581904878	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\花满听楼花满天\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\花满听楼花满天\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\花满听楼花满天\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\花满听楼花满天\AppData\Local\openvr\openvrpaths.vrpath
+1523581912228	Marionette	INFO	Listening on port 51091
+1523581912436	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.1.251/ciircrm/Public/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.1.251/ciircrm/Public/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Parent 6800, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4792, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4792, Chrome[Parent 6800, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1523581924650	geckodriver::marionette	ERROR	Failed to stop browser process
+1523581924946	geckodriver	INFO	geckodriver 0.20.0
+1523581924975	geckodriver	INFO	Listening on 127.0.0.1:51148
+1523581927987	mozrunner::runner	INFO	Running command: "E:\\FirefoxPortable\\firefox.exe" "-marionette" "-profile" "C:\\Users\\花满听~1\\AppData\\Local\\Temp\\rust_mozprofile.zrY9h92G4Tln"
+Unable to read VR Path Registry from C:\Users\花满听楼花满天\AppData\Local\openvr\openvrpaths.vrpath
+1523581929960	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\花满听楼花满天\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\花满听楼花满天\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\花满听楼花满天\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\花满听楼花满天\AppData\Local\openvr\openvrpaths.vrpath
+1523581936542	Marionette	INFO	Listening on port 51156
+1523581937888	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.1.251/ciircrm/Public/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.1.251/ciircrm/Public/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.1.251/ciircrm/Public/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Parent 12036, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3272, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3272, C1523581959282	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1523581959310	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1523581962060	geckodriver::marionette	ERROR	Failed to stop browser process
+1523581962402	geckodriver	INFO	geckodriver 0.20.0
+1523581962431	geckodriver	INFO	Listening on 127.0.0.1:51225
+1523581965450	mozrunner::runner	INFO	Running command: "E:\\FirefoxPortable\\firefox.exe" "-marionette" "-profile" "C:\\Users\\花满听~1\\AppData\\Local\\Temp\\rust_mozprofile.dmYZGSKzFWRi"
+Unable to read VR Path Registry from C:\Users\花满听楼花满天\AppData\Local\openvr\openvrpaths.vrpath
+1523581967368	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\花满听楼花满天\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\花满听楼花满天\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\花满听楼花满天\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\花满听楼花满天\AppData\Local\openvr\openvrpaths.vrpath
+1523581974034	Marionette	INFO	Listening on port 51233
+1523581976206	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.1.251/ciircrm/Public/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.1.251/ciircrm/Public/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.1.251/ciircrm/Public/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Parent 7836, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 7836, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1523581997986	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1523581999238	geckodriver::marionette	ERROR	Failed to stop browser process
+1523581999505	geckodriver	INFO	geckodriver 0.20.0
+1523581999528	geckodriver	INFO	Listening on 127.0.0.1:51303
+1523582002549	mozrunner::runner	INFO	Running command: "E:\\FirefoxPortable\\firefox.exe" "-marionette" "-profile" "C:\\Users\\花满听~1\\AppData\\Local\\Temp\\rust_mozprofile.rFl4CqqRGIpZ"
+Unable to read VR Path Registry from C:\Users\花满听楼花满天\AppData\Local\openvr\openvrpaths.vrpath
+1523582004460	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\花满听楼花满天\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\花满听楼花满天\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\花满听楼花满天\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\花满听楼花满天\AppData\Local\openvr\openvrpaths.vrpath
+1523582011404	Marionette	INFO	Listening on port 51312
+1523582012750	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.1.251/ciircrm/Public/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.1.251/ciircrm/Public/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.1.251/ciircrm/Public/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 11980, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11980, C[Chi*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1523582052872	geckodriver::marionette	ERROR	Failed to stop browser process
+1523582053351	geckodriver	INFO	geckodriver 0.20.0
+1523582053379	geckodriver	INFO	Listening on 127.0.0.1:51395
+1523582056398	mozrunner::runner	INFO	Running command: "E:\\FirefoxPortable\\firefox.exe" "-marionette" "-profile" "C:\\Users\\花满听~1\\AppData\\Local\\Temp\\rust_mozprofile.8YchP6R5I9j1"
+Unable to read VR Path Registry from C:\Users\花满听楼花满天\AppData\Local\openvr\openvrpaths.vrpath
+1523582058390	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\花满听楼花满天\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\花满听楼花满天\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\花满听楼花满天\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\花满听楼花满天\AppData\Local\openvr\openvrpaths.vrpath
+1523582065942	Marionette	INFO	Listening on port 51406
+1523582066782	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.1.251/ciircrm/Public/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.1.251/ciircrm/Public/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.1.251/ciircrm/Public/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 6416, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6416, Chrom[Child 5032, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5032, Chr[Ch*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1523582111025	geckodriver::marionette	ERROR	Failed to stop browser process
+1523582111420	geckodriver	INFO	geckodriver 0.20.0
+1523582111454	geckodriver	INFO	Listening on 127.0.0.1:51481
+1523582114458	mozrunner::runner	INFO	Running command: "E:\\FirefoxPortable\\firefox.exe" "-marionette" "-profile" "C:\\Users\\花满听~1\\AppData\\Local\\Temp\\rust_mozprofile.K89A8XnVOXPK"
+Unable to read VR Path Registry from C:\Users\花满听楼花满天\AppData\Local\openvr\openvrpaths.vrpath
+1523582117424	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\花满听楼花满天\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\花满听楼花满天\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\花满听楼花满天\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\花满听楼花满天\AppData\Local\openvr\openvrpaths.vrpath
+1523582124156	Marionette	INFO	Listening on port 51490
+1523582125018	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.1.251/ciircrm/Public/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.1.251/ciircrm/Public/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.1.251/ciircrm/Public/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 3748, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3748, Ch1523582147450	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Parent 7248, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1523582150196	geckodriver::marionette	ERROR	Failed to stop browser process
+1523947551042	geckodriver	INFO	geckodriver 0.20.0
+1523947551056	geckodriver	INFO	Listening on 127.0.0.1:63288
+1523947554054	mozrunner::runner	INFO	Running command: "D:\\firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\wangz\\AppData\\Local\\Temp\\rust_mozprofile.gM2Sj8mLXLaR"
+Unable to read VR Path Registry from C:\Users\wangz\AppData\Local\openvr\openvrpaths.vrpath
+1523947554652	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\wangz\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\wangz\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\wangz\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\wangz\AppData\Local\openvr\openvrpaths.vrpath
+1523947556354	Marionette	INFO	Listening on port 63296
+1523947557170	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.1.19/ciircrm/Public/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.1.19/ciircrm/Public/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.1.19/ciircrm/Public/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 11336, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11336, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chr[Parent 7784, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1523947572405	geckodriver::marionette	ERROR	Failed to stop browser process
+1523947572528	geckodriver	INFO	geckodriver 0.20.0
+1523947572539	geckodriver	INFO	Listening on 127.0.0.1:63353
+1523947575553	mozrunner::runner	INFO	Running command: "D:\\firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\wangz\\AppData\\Local\\Temp\\rust_mozprofile.6w8wZRRkcL6U"
+Unable to read VR Path Registry from C:\Users\wangz\AppData\Local\openvr\openvrpaths.vrpath
+1523947576138	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\wangz\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\wangz\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\wangz\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\wangz\AppData\Local\openvr\openvrpaths.vrpath
+1523947577846	Marionette	INFO	Listening on port 63361
+1523947578668	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.1.19/ciircrm/Public/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.1.19/ciircrm/Public/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 284, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 284, Chro[Parent 1836, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7076, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7076, Chro*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1523947582841	geckodriver::marionette	ERROR	Failed to stop browser process
+1523947582965	geckodriver	INFO	geckodriver 0.20.0
+1523947582976	geckodriver	INFO	Listening on 127.0.0.1:63402
+1523947585991	mozrunner::runner	INFO	Running command: "D:\\firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\wangz\\AppData\\Local\\Temp\\rust_mozprofile.R84GxhLuiDn4"
+Unable to read VR Path Registry from C:\Users\wangz\AppData\Local\openvr\openvrpaths.vrpath
+1523947586570	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\wangz\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\wangz\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\wangz\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\wangz\AppData\Local\openvr\openvrpaths.vrpath
+1523947588272	Marionette	INFO	Listening on port 63410
+1523947589104	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.1.19/ciircrm/Public/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.1.19/ciircrm/Public/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.1.19/ciircrm/Public/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.1.19/ciircrm/Public/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 11668, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11668, C[Parent 9440, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6768, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6768, Chrome_ChildThread] [Child*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 2752, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1523947610369	geckodriver::marionette	ERROR	Failed to stop browser process
+1523947610493	geckodriver	INFO	geckodriver 0.20.0
+1523947610505	geckodriver	INFO	Listening on 127.0.0.1:63467
+1523947613518	mozrunner::runner	INFO	Running command: "D:\\firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\wangz\\AppData\\Local\\Temp\\rust_mozprofile.vCGHrO9ksgjy"
+Unable to read VR Path Registry from C:\Users\wangz\AppData\Local\openvr\openvrpaths.vrpath
+1523947614104	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\wangz\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\wangz\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\wangz\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\wangz\AppData\Local\openvr\openvrpaths.vrpath
+1523947615942	Marionette	INFO	Listening on port 63475
+1523947616632	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.1.19/ciircrm/Public/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.1.19/ciircrm/Public/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.1.19/ciircrm/Public/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.1.19/ciircrm/Public/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 4164, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4164, Chrome_ChildThread] WARNING: pipe error: 1[Parent 4680, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10088, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10088, Ch*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1523947647492	geckodriver::marionette	ERROR	Failed to stop browser process
+1523947647613	geckodriver	INFO	geckodriver 0.20.0
+1523947647624	geckodriver	INFO	Listening on 127.0.0.1:63527
+1523947650651	mozrunner::runner	INFO	Running command: "D:\\firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\wangz\\AppData\\Local\\Temp\\rust_mozprofile.KZ7RRCqxzevr"
+Unable to read VR Path Registry from C:\Users\wangz\AppData\Local\openvr\openvrpaths.vrpath
+1523947651256	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\wangz\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\wangz\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\wangz\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\wangz\AppData\Local\openvr\openvrpaths.vrpath
+1523947653004	Marionette	INFO	Listening on port 63535
+1523947653768	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.1.19/ciircrm/Public/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.1.19/ciircrm/Public/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.1.19/ciircrm/Public/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://192.168.1.19/ciircrm/index.php?m=task&a=add, line 203: ReferenceError: KindEditor is not defined
+JavaScript warning: http://192.168.1.19/ciircrm/Public/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://192.168.1.19/ciircrm/index.php?m=task&a=add, line 203: ReferenceError: KindEditor is not defined
+[Child 11112, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11112, Chrome_ChildThread[Parent 12080, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7752, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7752, Chrome_ChildT*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1523947669684	geckodriver::marionette	ERROR	Failed to stop browser process
+1523947669811	geckodriver	INFO	geckodriver 0.20.0
+1523947669823	geckodriver	INFO	Listening on 127.0.0.1:63591
+1523947672838	mozrunner::runner	INFO	Running command: "D:\\firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\wangz\\AppData\\Local\\Temp\\rust_mozprofile.AerT2j08BHna"
+Unable to read VR Path Registry from C:\Users\wangz\AppData\Local\openvr\openvrpaths.vrpath
+1523947673420	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\wangz\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\wangz\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\wangz\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\wangz\AppData\Local\openvr\openvrpaths.vrpath
+1523947675154	Marionette	INFO	Listening on port 63599
+1523947675952	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.1.19/ciircrm/Public/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.1.19/ciircrm/Public/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Parent 1896, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7092, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7092, Chro[Child 6864, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6864, Chrome_ChildThread] WARNING: p[Child 6164, C*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1523947680262	geckodriver::marionette	ERROR	Failed to stop browser process
+1523947680383	geckodriver	INFO	geckodriver 0.20.0
+1523947680394	geckodriver	INFO	Listening on 127.0.0.1:63645
+1523947683422	mozrunner::runner	INFO	Running command: "D:\\firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\wangz\\AppData\\Local\\Temp\\rust_mozprofile.S3W3ijX5Mwq7"
+Unable to read VR Path Registry from C:\Users\wangz\AppData\Local\openvr\openvrpaths.vrpath
+1523947684052	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\wangz\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\wangz\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\wangz\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\wangz\AppData\Local\openvr\openvrpaths.vrpath
+1523947685842	Marionette	INFO	Listening on port 63653
+1523947686540	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.1.19/ciircrm/Public/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.1.19/ciircrm/Public/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.1.19/ciircrm/Public/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 12132, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12132, C[Child 12212, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12212, Chrome_ChildThre[Parent 1724, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Ch*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1523947701942	geckodriver::marionette	ERROR	Failed to stop browser process
+1523947702109	geckodriver	INFO	geckodriver 0.20.0
+1523947702121	geckodriver	INFO	Listening on 127.0.0.1:63701
+1523947705124	mozrunner::runner	INFO	Running command: "D:\\firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\wangz\\AppData\\Local\\Temp\\rust_mozprofile.NskAugPGlPn8"
+Unable to read VR Path Registry from C:\Users\wangz\AppData\Local\openvr\openvrpaths.vrpath
+1523947705720	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\wangz\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\wangz\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\wangz\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\wangz\AppData\Local\openvr\openvrpaths.vrpath
+1523947707456	Marionette	INFO	Listening on port 63709
+1523947708270	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.1.19/ciircrm/Public/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.1.19/ciircrm/Public/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.1.19/ciircrm/Public/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 8612, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8612, Chrome_ChildThread] WARNING[Child 8036, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8036, Chrome_*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1523947723678	geckodriver::marionette	ERROR	Failed to stop browser process
+1523947723821	geckodriver	INFO	geckodriver 0.20.0
+1523947723831	geckodriver	INFO	Listening on 127.0.0.1:63758
+1523947726846	mozrunner::runner	INFO	Running command: "D:\\firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\wangz\\AppData\\Local\\Temp\\rust_mozprofile.1t2pSBfT7T8C"
+Unable to read VR Path Registry from C:\Users\wangz\AppData\Local\openvr\openvrpaths.vrpath
+1523947727438	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\wangz\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\wangz\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\wangz\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\wangz\AppData\Local\openvr\openvrpaths.vrpath
+1523947729168	Marionette	INFO	Listening on port 63766
+1523947729980	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.1.19/ciircrm/Public/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.1.19/ciircrm/Public/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.1.19/ciircrm/Public/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 11760, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11760, Chrome_ChildThread] WARNIN[Parent 6768, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11088, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11088, Ch[Child 2136, Chrome_ChildThread] WARNING: pipe er*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1523947760334	geckodriver::marionette	ERROR	Failed to stop browser process
+1523947760487	geckodriver	INFO	geckodriver 0.20.0
+1523947760498	geckodriver	INFO	Listening on 127.0.0.1:63824
+1523947763512	mozrunner::runner	INFO	Running command: "D:\\firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\wangz\\AppData\\Local\\Temp\\rust_mozprofile.ls7040T5YXWb"
+Unable to read VR Path Registry from C:\Users\wangz\AppData\Local\openvr\openvrpaths.vrpath
+1523947764104	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\wangz\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\wangz\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\wangz\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\wangz\AppData\Local\openvr\openvrpaths.vrpath
+1523947765856	Marionette	INFO	Listening on port 63832
+1523947766652	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.1.19/ciircrm/Public/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.1.19/ciircrm/Public/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.1.19/ciircrm/Public/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 8996, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8996, Chrome_ChildThread] WAR[Parent 4780, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12176, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12176, C*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1523947801625	geckodriver::marionette	ERROR	Failed to stop browser process
+1523947801778	geckodriver	INFO	geckodriver 0.20.0
+1523947801794	geckodriver	INFO	Listening on 127.0.0.1:63881
+1523947804789	mozrunner::runner	INFO	Running command: "D:\\firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\wangz\\AppData\\Local\\Temp\\rust_mozprofile.cQBuTgkCA1fR"
+Unable to read VR Path Registry from C:\Users\wangz\AppData\Local\openvr\openvrpaths.vrpath
+1523947805380	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\wangz\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\wangz\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\wangz\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\wangz\AppData\Local\openvr\openvrpaths.vrpath
+1523947807114	Marionette	INFO	Listening on port 63890
+1523947807902	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.1.19/ciircrm/Public/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.1.19/ciircrm/Public/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.1.19/ciircrm/Public/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 1428, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1428, C[Child 2992, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2992, Chrome_ChildThre[Child 6292, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6292, Chr*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1523947822988	geckodriver::marionette	ERROR	Failed to stop browser process
+1523948166523	geckodriver	INFO	geckodriver 0.20.0
+1523948166534	geckodriver	INFO	Listening on 127.0.0.1:63953
+1523948169550	mozrunner::runner	INFO	Running command: "D:\\firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\wangz\\AppData\\Local\\Temp\\rust_mozprofile.nxAYlPmCPiB6"
+Unable to read VR Path Registry from C:\Users\wangz\AppData\Local\openvr\openvrpaths.vrpath
+1523948170288	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\wangz\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\wangz\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\wangz\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\wangz\AppData\Local\openvr\openvrpaths.vrpath
+1523948172262	Marionette	INFO	Listening on port 63961
+1523948172702	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.1.19/ciircrm/Public/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.1.19/ciircrm/Public/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.1.19/ciircrm/Public/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 8300, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8300, Ch[Parent 2676, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9404, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9404, Chr*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1523948188927	geckodriver::marionette	ERROR	Failed to stop browser process
+1523948189078	geckodriver	INFO	geckodriver 0.20.0
+1523948189089	geckodriver	INFO	Listening on 127.0.0.1:64019
+1523948192107	mozrunner::runner	INFO	Running command: "D:\\firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\wangz\\AppData\\Local\\Temp\\rust_mozprofile.KfWchqneuusg"
+Unable to read VR Path Registry from C:\Users\wangz\AppData\Local\openvr\openvrpaths.vrpath
+1523948192746	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\wangz\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\wangz\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\wangz\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\wangz\AppData\Local\openvr\openvrpaths.vrpath
+1523948194622	Marionette	INFO	Listening on port 64027
+1523948195248	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.1.19/ciircrm/Public/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.1.19/ciircrm/Public/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.1.19/ciircrm/Public/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.1.19/ciircrm/Public/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Parent 7368, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7964, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7964, Chrome_C*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1523948227097	geckodriver::marionette	ERROR	Failed to stop browser process
+1523948227226	geckodriver	INFO	geckodriver 0.20.0
+1523948227238	geckodriver	INFO	Listening on 127.0.0.1:64082
+1523948230253	mozrunner::runner	INFO	Running command: "D:\\firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\wangz\\AppData\\Local\\Temp\\rust_mozprofile.I9OBWAgJ2Rm9"
+Unable to read VR Path Registry from C:\Users\wangz\AppData\Local\openvr\openvrpaths.vrpath
+1523948230854	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\wangz\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\wangz\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\wangz\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\wangz\AppData\Local\openvr\openvrpaths.vrpath
+1523948232704	Marionette	INFO	Listening on port 64090
+1523948233368	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.1.19/ciircrm/Public/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.1.19/ciircrm/Public/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.1.19/ciircrm/Public/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.1.19/ciircrm/Public/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 3764, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3764, Chrom[Parent 5908, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11860, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11860, Chro*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1523948255182	geckodriver::marionette	ERROR	Failed to stop browser process
+1523948255327	geckodriver	INFO	geckodriver 0.20.0
+1523948255339	geckodriver	INFO	Listening on 127.0.0.1:64146
+1523948258349	mozrunner::runner	INFO	Running command: "D:\\firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\wangz\\AppData\\Local\\Temp\\rust_mozprofile.cCkfb06BjoDG"
+Unable to read VR Path Registry from C:\Users\wangz\AppData\Local\openvr\openvrpaths.vrpath
+1523948258956	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\wangz\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\wangz\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\wangz\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\wangz\AppData\Local\openvr\openvrpaths.vrpath
+1523948260778	Marionette	INFO	Listening on port 64154
+1523948261476	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.1.19/ciircrm/Public/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.1.19/ciircrm/Public/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.1.19/ciircrm/Public/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.1.19/ciircrm/Public/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Parent 7728, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1352, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1352, Ch[Parent 7728, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11284, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Chil*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1523948292434	geckodriver::marionette	ERROR	Failed to stop browser process
+1523948292558	geckodriver	INFO	geckodriver 0.20.0
+1523948292569	geckodriver	INFO	Listening on 127.0.0.1:64211
+1523948295583	mozrunner::runner	INFO	Running command: "D:\\firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\wangz\\AppData\\Local\\Temp\\rust_mozprofile.duECMWrOSTZc"
+Unable to read VR Path Registry from C:\Users\wangz\AppData\Local\openvr\openvrpaths.vrpath
+1523948296192	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\wangz\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\wangz\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\wangz\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\wangz\AppData\Local\openvr\openvrpaths.vrpath
+1523948298038	Marionette	INFO	Listening on port 64219
+1523948298700	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.1.19/ciircrm/Public/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.1.19/ciircrm/Public/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.1.19/ciircrm/Public/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://192.168.1.19/ciircrm/index.php?m=task&a=add, line 203: ReferenceError: KindEditor is not defined
+JavaScript warning: http://192.168.1.19/ciircrm/Public/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://192.168.1.19/ciircrm/index.php?m=task&a=add, line 203: ReferenceError: KindEditor is not defined
+[Child 2072, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2072, Chr[Child 7096, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7096, C*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1523948314767	geckodriver::marionette	ERROR	Failed to stop browser process
+1523948314938	geckodriver	INFO	geckodriver 0.20.0
+1523948314955	geckodriver	INFO	Listening on 127.0.0.1:64274
+1523948317946	mozrunner::runner	INFO	Running command: "D:\\firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\wangz\\AppData\\Local\\Temp\\rust_mozprofile.pOJQbI89Wdwc"
+Unable to read VR Path Registry from C:\Users\wangz\AppData\Local\openvr\openvrpaths.vrpath
+1523948318558	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\wangz\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\wangz\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\wangz\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\wangz\AppData\Local\openvr\openvrpaths.vrpath
+1523948320380	Marionette	INFO	Listening on port 64283
+1523948321062	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.1.19/ciircrm/Public/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.1.19/ciircrm/Public/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 3464, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3464, C[Parent 4444, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11480, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11480, Chro[Child 11108, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11108, Chrome_Chil*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1523948325641	geckodriver::marionette	ERROR	Failed to stop browser process
+1523948325765	geckodriver	INFO	geckodriver 0.20.0
+1523948325777	geckodriver	INFO	Listening on 127.0.0.1:64326
+1523948328782	mozrunner::runner	INFO	Running command: "D:\\firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\wangz\\AppData\\Local\\Temp\\rust_mozprofile.QlPpdbAEnc3t"
+Unable to read VR Path Registry from C:\Users\wangz\AppData\Local\openvr\openvrpaths.vrpath
+1523948329422	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\wangz\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\wangz\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\wangz\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\wangz\AppData\Local\openvr\openvrpaths.vrpath
+1523948331578	Marionette	INFO	Listening on port 64334
+1523948331900	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.1.19/ciircrm/Public/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.1.19/ciircrm/Public/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.1.19/ciircrm/Public/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1523948347898	geckodriver::marionette	ERROR	Failed to stop browser process
+1523948348046	geckodriver	INFO	geckodriver 0.20.0
+1523948348058	geckodriver	INFO	Listening on 127.0.0.1:64388
+1523948351072	mozrunner::runner	INFO	Running command: "D:\\firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\wangz\\AppData\\Local\\Temp\\rust_mozprofile.ulFF3bJxBJib"
+Unable to read VR Path Registry from C:\Users\wangz\AppData\Local\openvr\openvrpaths.vrpath
+1523948351742	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\wangz\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\wangz\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\wangz\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\wangz\AppData\Local\openvr\openvrpaths.vrpath
+1523948353618	Marionette	INFO	Listening on port 64396
+1523948354224	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.1.19/ciircrm/Public/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.1.19/ciircrm/Public/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.1.19/ciircrm/Public/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 11280, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11280, C[Child 7012, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7012, Chro[Parent 1064, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1523948369612	geckodriver::marionette	ERROR	Failed to stop browser process
+1523948369783	geckodriver	INFO	geckodriver 0.20.0
+1523948369798	geckodriver	INFO	Listening on 127.0.0.1:64445
+1523948372817	mozrunner::runner	INFO	Running command: "D:\\firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\wangz\\AppData\\Local\\Temp\\rust_mozprofile.aqQFGEbfxtqD"
+Unable to read VR Path Registry from C:\Users\wangz\AppData\Local\openvr\openvrpaths.vrpath
+1523948373438	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\wangz\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\wangz\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\wangz\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\wangz\AppData\Local\openvr\openvrpaths.vrpath
+1523948375230	Marionette	INFO	Listening on port 64453
+1523948375940	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.1.19/ciircrm/Public/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.1.19/ciircrm/Public/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.1.19/ciircrm/Public/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 7144, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7144, Ch[Child 11588, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11588, Chrome_Child[Child 4492, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4492, Ch*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1523948406581	geckodriver::marionette	ERROR	Failed to stop browser process
+1523948406734	geckodriver	INFO	geckodriver 0.20.0
+1523948406745	geckodriver	INFO	Listening on 127.0.0.1:64508
+1523948409752	mozrunner::runner	INFO	Running command: "D:\\firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\wangz\\AppData\\Local\\Temp\\rust_mozprofile.PEL8785wFrwl"
+Unable to read VR Path Registry from C:\Users\wangz\AppData\Local\openvr\openvrpaths.vrpath
+1523948410396	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\wangz\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\wangz\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\wangz\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\wangz\AppData\Local\openvr\openvrpaths.vrpath
+1523948412212	Marionette	INFO	Listening on port 64516
+1523948412880	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.1.19/ciircrm/Public/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.1.19/ciircrm/Public/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.1.19/ciircrm/Public/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 9740, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9740, Chrome[Child 2676, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2676, Chrome_[Parent 11968, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11452, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11452, Chr*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1523948448111	geckodriver::marionette	ERROR	Failed to stop browser process
+1523948448239	geckodriver	INFO	geckodriver 0.20.0
+1523948448251	geckodriver	INFO	Listening on 127.0.0.1:64564
+1523948451284	mozrunner::runner	INFO	Running command: "D:\\firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\wangz\\AppData\\Local\\Temp\\rust_mozprofile.Bd9iCVw77oxJ"
+Unable to read VR Path Registry from C:\Users\wangz\AppData\Local\openvr\openvrpaths.vrpath
+1523948451908	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\wangz\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\wangz\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\wangz\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\wangz\AppData\Local\openvr\openvrpaths.vrpath
+1523948453778	Marionette	INFO	Listening on port 64572
+1523948454402	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://192.168.1.19/ciircrm/Public/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.1.19/ciircrm/Public/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://192.168.1.19/ciircrm/Public/js/jquery-1.9.0.min.js, line 4: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 11668, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11668, Ch[Parent 6908, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12132, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12132, Chro[Parent 6908, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2108, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2108, Chrome_*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1523948469741	geckodriver::marionette	ERROR	Failed to stop browser process
